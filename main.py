@@ -7,7 +7,7 @@ import openai
 from printer import type_it
 
 # Set up the OpenAI API client
-with open("api-key.txt", 'r') as file:
+with open("your_api_key.txt", 'r') as file:
     openai.api_key = file.read()
 
 # Choose a GPT-2 model size
