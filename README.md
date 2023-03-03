@@ -14,15 +14,17 @@ Clone the repository:
 
 <code> git clone https://github.com/boachiejude/casual-llm.git</code>
 
-Change to the project directory:
+Change to the project directory:<br>
+
 <code> cd casual-llm</code>
 
-Install the required packages:
+Install the required packages:<br>
+
 <code> pip install -r requirements.txt</code>
 
 ## Usage
 
-To use Casual-llm, simply run the `casual-llm.py` script and enter your query when prompted:
+To use Casual-llm, simply run the `casual-llm.py` script and enter your query when prompted:<br>
 
 <code> python casual-llm.py</code>
 
