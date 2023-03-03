@@ -12,19 +12,19 @@ To use Casual-llm, you need to have [Python 3.7](https://python.org/downloads) o
 
 Clone the repository:
 
-<code>git clone https://github.com/boachiejude/casual-llm.git<code>
+<code> git clone https://github.com/boachiejude/casual-llm.git
 
 Change to the project directory:
-cd casual-llm
+<code> cd casual-llm
 
 Install the required packages:
-pip install -r requirements.txt
+<code> pip install -r requirements.txt
 
 ## Usage
 
 To use Casual-llm, simply run the `casual-llm.py` script and enter your query when prompted:
 
-python casual-llm.py
+<code> python casual-llm.py
 
 ## License
 
