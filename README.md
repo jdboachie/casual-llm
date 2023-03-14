@@ -28,6 +28,10 @@ To use Casual-llm, simply run the `casual-llm.py` script and enter your query wh
 
 <code> python casual-llm.py</code>
 
+## Further work
+
+The project will be updated to use gpt-3.5-turbo
+
 ## License
 
 Casual-llm is licensed under the [MIT License](https://github.com/boachiejude/casual-llm/blob/main/LICENSE).
